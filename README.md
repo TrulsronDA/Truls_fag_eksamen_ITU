@@ -51,7 +51,6 @@ Eksportere datasettet som delta-tabell og csv-fil
 
 ## Struktur
 
-/
 ├── functions.py
 ├── World_Bank_Data_project.ipynb
 ├── data_files/
