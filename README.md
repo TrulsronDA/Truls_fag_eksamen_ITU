@@ -4,7 +4,7 @@
 Dette prosjektet er en del av min fagprøve i IT-utviklerfaget.
 Målet er å hente inn, transformere og analysere nøkkelindikatorer fra World Bank for ulike land og år, og gjøre dataene klare for videre analyse og visualisering.
 
-Oppdateringsdato: 4 Juni 2025, klokkeslett: 10:30
+Oppdateringsdato: 4 Juni 2025, klokkeslett: 14:00
 
 ### Lisens
 Dette prosjektet er til IT-utviklerfaget fagprøvebruk
@@ -12,7 +12,7 @@ Dette prosjektet er til IT-utviklerfaget fagprøvebruk
 ## Innhold
 
 ### Data innhold
-Dette prosjektet inneholder utdanningsutgifter, total (% av BNP), forventet levealder fra fødsel, total (år), offentlige utgifter, BNP per innbygger data fra World Bank Group.
+Dette prosjektet inneholder BNP (nåværende US$), utdanningsutgifter, total (% av BNP), forventet levealder fra fødsel, total (år), offentlige utgifter, BNP per innbygger data fra World Bank Group.
 - Kilde for World Bank data: https://data.worldbank.org/indicator?tab=featured
 
 ### Krav og avhengigheter
