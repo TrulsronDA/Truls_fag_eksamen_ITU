@@ -4,7 +4,7 @@
 Dette prosjektet er en del av min fagprøve i IT-utviklerfaget.
 Målet er å hente inn, transformere og analysere nøkkelindikatorer fra World Bank for ulike land og år, og gjøre dataene klare for videre analyse og visualisering.
 
-Oppdateringsdato: 6 Juni 2025, klokkeslett: 07:30
+Oppdateringsdato: 6 Juni 2025, klokkeslett: 09:00
 
 ### Lisens
 Dette prosjektet er til IT-utviklerfaget fagprøvebruk
@@ -12,7 +12,7 @@ Dette prosjektet er til IT-utviklerfaget fagprøvebruk
 ## Innhold
 
 ### Data innhold
-Dette prosjektet inneholder BNP (nåværende US$), utdanningsutgifter, total (% av BNP), forventet levealder fra fødsel, total (år), offentlige utgifter, BNP per innbygger data og Karbonintensitet av BNP (kg CO2e per 2021 PPP $ av BNP) fra World Bank Group.
+Dette prosjektet inneholder BNP (nåværende US$), utdanningsutgifter, total (% av BNP), forventet levealder fra fødsel, total (år), offentlige utgifter, BNP per innbygger data, BNP, kjøpekraftsparitet (konstant 2021 internasjonale $) og Karbonintensitet av BNP (kg CO2e per 2021 PPP $ av BNP) fra World Bank Group.
 - Kilde for World Bank data: https://data.worldbank.org/indicator?tab=featured
 
 ### Krav og avhengigheter
